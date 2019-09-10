@@ -1,0 +1,27 @@
+
+enter
+{
+var num i;
+i = 5;
+var num t;
+t = 1+5*8+10);
+var num k;
+k = razn(i,t);
+console("k");
+console(k);
+if(i<0)
+{
+console("less0");
+}
+else
+{
+console("more0");
+}
+var string v;
+v ="first";
+console("second");
+var num s;
+s = sum(2,2);
+console(s);
+return 0;
+}
